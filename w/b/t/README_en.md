@@ -53,7 +53,6 @@ Let's support each other as we follow our dreams. So excited to see this communi
 
 | Sister | Shared Content |
 | --- | --- |
-| JustDoItSis |[Applying for STEM programs abroad as a woman? Know your advantages!](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/43)|
 | JustDoItSis |[Still fighting hard? How to enhance your soft skills during the application!](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/44)|
 | JustDoItSis | [Research internships for undergraduates in various disciplines](https://github.com/himahuja/Research-Internships-for-Undergraduates) |
 | Heystone999 | [23fall Waterloo ECE MEng non-Coop, ask me anything](https://github.com/Celiashea/Women-Study-Abroad-24fall/issues/34) |
