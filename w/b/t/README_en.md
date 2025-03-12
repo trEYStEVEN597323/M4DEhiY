@@ -12,7 +12,6 @@ I started this repo as a space for us to uplift each other as we navigate studyi
 Studying overseas is an adventure, but it's better with friends! 👭 Let's build an empowering community where we can collaborate, motivate, and learn from one another.
 
 Get involved by:
-
 - Sharing your expertise and stories 💡
 - Asking questions and sparking discussions 🗣
 - Contributing links/resources 📎
