@@ -22,7 +22,6 @@
     "type": "many_choice",
     "answers": [
       {
-        "answer": "It allows for easy data visualization and exploration",
         "correct": true
       },
       {
